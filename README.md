@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100px">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Dinidu Maleesha</h1>
@@ -9,10 +9,6 @@
   <img src="https://komarev.com/ghpvc/?username=dinidumaleezha&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/dinidumaleezha?label=Followers" alt="Followers" />
   <img src="https://img.shields.io/github/stars/dinidumaleezha?label=Stars" alt="Stars" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
 </p>
 
 ---
@@ -48,8 +44,8 @@
   <a href="https://www.linkedin.com/in/dinidumaleezha" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/>
   </a>
-  <a href="https://www.facebook.com/dinidumaleezha" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white" alt="Facebook" height="30"/>
+  <a href="https://wa.me/yourwhatsappnumber" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-green?logo=whatsapp&logoColor=white" alt="WhatsApp" height="30"/>
   </a>
   <a href="https://www.youtube.com/channel/UCJPRbxNjnavUCE1oKtLjwrQ" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white" alt="YouTube" height="30"/>
@@ -65,4 +61,3 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,java,html,css,js,react,git,mysql,androidstudio,figma,photoshop&perline=7" />
 </p>
-
