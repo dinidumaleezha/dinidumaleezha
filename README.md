@@ -15,11 +15,10 @@
 
 <h2 align="center">🚀 About Me</h2>
 
-- 🔭 I’m currently working on **Mail Com**, a database management system for mailing systems.
-- 🌱 I’m currently learning **C++ functional programming** and **Android development**.
-- 👯 I’m looking to collaborate on **AI and machine learning open-source projects**.
+- 🌱 I’m currently learning **MERN**
+- 🧑‍🎓 I’m an Undergraduate at **ICBT**
 - 💬 Ask me about **C++, Java, and video app development**.
-- 📫 How to reach me: **dinidu.maleesha@example.com**
+- 📫 How to reach me: **maleezha1975@gmail.com**
 - ⚡ Fun fact: **I love coding and exploring emerging tech trends!**
 
 ---
