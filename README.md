@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **MERN**
 - 🧑‍🎓 I’m an Undergraduate at **ICBT**
-- 💬 Ask me about **C++, Java, and video app development**.
+- 💬 Ask me about **Java and Mobile app development**
 - 📫 How to reach me: **maleezha1975@gmail.com**
 - ⚡ Fun fact: **I love coding and exploring emerging tech trends!**
 
