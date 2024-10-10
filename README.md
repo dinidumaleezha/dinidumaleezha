@@ -16,13 +16,9 @@
 <h2 align="center">🚀 About Me</h2>
 
 - 🌱 I’m currently learning **MERN**
-- 
 - 🧑‍🎓 I’m an Undergraduate at **ICBT**
-- 
 - 💬 Ask me about **Java and Mobile app development**
-- 
 - 📫 How to reach me: **maleezha1975@gmail.com**
-- 
 - ⚡ Fun fact: **I love coding and exploring emerging tech trends!**
 
 ---
@@ -49,7 +45,7 @@
   <a href="https://www.linkedin.com/in/dinidumaleezha" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/>
   </a>
-  <a href="https://wa.me/yourwhatsappnumber" target="_blank">
+  <a href="https://wa.me/+94765849851" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-green?logo=whatsapp&logoColor=white" alt="WhatsApp" height="30"/>
   </a>
   <a href="https://www.youtube.com/channel/UCJPRbxNjnavUCE1oKtLjwrQ" target="_blank">
