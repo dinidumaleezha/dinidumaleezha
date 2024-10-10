@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100px">
 </p>
 
 <h1 align="center">Hi 👋, I'm Dinidu Maleesha</h1>
@@ -9,6 +9,10 @@
   <img src="https://komarev.com/ghpvc/?username=dinidumaleezha&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/dinidumaleezha?label=Followers" alt="Followers" />
   <img src="https://img.shields.io/github/stars/dinidumaleezha?label=Stars" alt="Stars" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
 </p>
 
 ---
@@ -27,17 +31,14 @@
 <h2 align="center">📊 My GitHub Stats</h2>
 
 <table align="center">
-  <tr>
+  <tr border="none">
     <td width="50%" align="center">
-      <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=dinidumaleezha&theme=dark&show_icons=true&count_private=true" alt="Dinidu's GitHub Stats"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Scar1109&theme=dark&show_icons=true&count_private=true" />
+      <br></br>
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Scar1109&theme=dark&hide_border=false" />
     </td>
     <td width="50%" align="center">
-      <img  align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=dinidumaleezha&theme=dark" alt="GitHub Streak Stats"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dinidumaleezha&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Scar1109&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" />
     </td>
   </tr>
 </table>
