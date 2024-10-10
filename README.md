@@ -48,8 +48,11 @@
   <a href="https://www.linkedin.com/in/dinidumaleezha" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/>
   </a>
-  <a href="https://stackoverflow.com/users/22345746/dinidumaleezha" target="_blank">
-    <img src="https://img.shields.io/badge/StackOverflow-orange?logo=stackoverflow&logoColor=white" alt="Stack Overflow" height="30"/>
+  <a href="https://www.facebook.com/dinidumaleezha" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white" alt="Facebook" height="30"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UCJPRbxNjnavUCE1oKtLjwrQ" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white" alt="YouTube" height="30"/>
   </a>
   <a href="https://www.instagram.com/dinidu.maleezha" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white" alt="Instagram" height="30"/>
@@ -62,3 +65,4 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,java,html,css,js,react,git,mysql,androidstudio,figma,photoshop&perline=7" />
 </p>
+
