@@ -28,11 +28,16 @@
 
 <table align="center">
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=dinidumaleezha&theme=dark&show_icons=true&count_private=true" alt="Dinidu's GitHub Stats"/>
+    <td width="50%" align="center">
+      <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=dinidumaleezha&theme=dark&show_icons=true&count_private=true" alt="Dinidu's GitHub Stats"/>
     </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=dinidumaleezha&theme=dark" alt="GitHub Streak Stats"/>
+    <td width="50%" align="center">
+      <img  align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=dinidumaleezha&theme=dark" alt="GitHub Streak Stats"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dinidumaleezha&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
     </td>
   </tr>
 </table>
