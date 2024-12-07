@@ -15,8 +15,8 @@
 
 <h2 align="center">🚀 About Me</h2>
 
-- 🌱 I’m currently learning **MERN**
-- 🧑‍🎓 I’m an Undergraduate at **ICBT**
+- 🌱 I’m currently learning **Coding**
+- 🧑‍🎓 I’m an Undergraduate at **ICBT Campus**
 - 💬 Ask me about **Java and Mobile app development**
 - 📫 How to reach me: **maleezha1975@gmail.com**
 - ⚡ Fun fact: **I love coding and exploring emerging tech trends!**
