@@ -40,8 +40,6 @@
 
 ---
 
----
-
 <h2 align="center">🛠️ Languages and Tools</h2>
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -87,6 +85,8 @@
     <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Linux-Light.svg" alt="linux" width="50" height="50"/>
   </a>
 </p>
+
+--- 
 
 <h2 align="center">📫 Connect with Me</h2>
 <p align="center">
