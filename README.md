@@ -102,5 +102,4 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Linux-Light.svg" alt="linux" width="50" height="50"/>
   </a>
-  <a href="https://www.mongodb.com/"
-
+</p>
