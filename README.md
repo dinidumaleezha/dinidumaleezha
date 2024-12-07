@@ -40,22 +40,6 @@
 
 ---
 
-<h2 align="center">📫 Connect with Me</h2>
-<p align="center">
-  <a href="https://www.linkedin.com/in/dinidumaleesha" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/>
-  </a>
-  <a href="https://wa.me/+94765849851" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-green?logo=whatsapp&logoColor=white" alt="WhatsApp" height="30"/>
-  </a>
-  <a href="https://www.youtube.com/@dinidu_maleesha" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white" alt="YouTube" height="30"/>
-  </a>
-  <a href="https://www.instagram.com/dinidumaleesha" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white" alt="Instagram" height="30"/>
-  </a>
-</p>
-
 ---
 
 <h2 align="center">🛠️ Languages and Tools</h2>
@@ -101,5 +85,21 @@
   </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Linux-Light.svg" alt="linux" width="50" height="50"/>
+  </a>
+</p>
+
+<h2 align="center">📫 Connect with Me</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/dinidumaleesha" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/>
+  </a>
+  <a href="https://wa.me/+94765849851" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-green?logo=whatsapp&logoColor=white" alt="WhatsApp" height="30"/>
+  </a>
+  <a href="https://www.youtube.com/@dinidu_maleesha" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white" alt="YouTube" height="30"/>
+  </a>
+  <a href="https://www.instagram.com/dinidumaleesha" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white" alt="Instagram" height="30"/>
   </a>
 </p>
