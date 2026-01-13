@@ -1,85 +1,38 @@
-# 👋 Hi, I'm Dinidu Maleesha
+<!-- Dynamic Animated Header -->
+<div align="center">
+  
+  ![Dynamic Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Dinidu%20Maleesha&fontSize=60&fontAlignY=35&desc=Future%20Tech%20Innovator&descAlignY=55&descSize=24&animation=blinking)
 
-🎯 **IT Undergraduate | Mobile App Developer | Tech Enthusiast**
+  <!-- Animated Typing Text -->
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00FF9D&center=true&vCenter=true&width=800&lines=🚀+Building+the+Future+with+Code;💻+Full-Stack+Developer+in+Making;📱+Mobile+App+Enthusiast;🌟+Passionate+IT+Student;🔥+Turning+Ideas+into+Reality)](https://git.io/typing-svg)
 
-📍 Colombo, Sri Lanka 🇱🇰  
-📚 Studying at ICBT Campus  
-💻 Passionate about Coding & Technology
+  <!-- Profile Views -->
+  ![Profile Views](https://komarev.com/ghpvc/?username=dinidumaleezha&color=00ff9d&style=flat-square&label=PROFILE+VIEWS)
+  ![Followers](https://img.shields.io/github/followers/dinidumaleezha?color=00ff9d&label=FOLLOWERS&style=flat-square)
+  ![Stars](https://img.shields.io/github/stars/dinidumaleezha?color=00ff9d&label=STARS&style=flat-square)
 
-## 📊 GitHub Stats
+</div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dinidumaleezha&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dinidumaleezha&layout=compact&theme=dark)
-
-## 🚀 About Me
-
-- 🎓 **Student:** IT Undergraduate at ICBT Campus
-- 💡 **Interests:** Mobile App Development, Web Development, UI/UX Design
-- 🌱 **Currently Learning:** Java, Kotlin, Android Development
-- 🎯 **Goals:** Become a Full-Stack Developer
-- 📫 **Email:** maleezha1975@gmail.com
-- 📱 **WhatsApp:** +94 76 584 9851
-
-## 🛠️ Technologies & Tools
-
-### Programming Languages
-- Java
-- Kotlin
-- C / C++
-- PHP
-- HTML/CSS
-
-### Databases
-- MySQL
-- SQLite
-- Microsoft SQL Server
-
-### Tools & Software
-- Android Studio
-- VS Code
-- Git & GitHub
-- Figma
-- Adobe Photoshop
-- Linux
-
-### Currently Exploring
-- React Native
-- Node.js
-- MongoDB
-- Firebase
-
-## 📁 Projects
-
-### Mobile Apps
-- **EduApp** - Learning application with Java
-- **Task Manager** - Android to-do app with Kotlin
-- **Weather App** - Real-time weather updates
-
-### Web Projects
-- **Library System** - PHP & MySQL web application
-- **Portfolio Website** - HTML, CSS, JavaScript
-- **E-commerce Site** - Online shopping platform
-
-## 📞 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/dinidumaleesha)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green)](https://wa.me/+94765849851)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red)](https://youtube.com/@dinidu_maleesha)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-purple)](https://instagram.com/dinidumaleesha)
-[![Email](https://img.shields.io/badge/Email-Contact-orange)](mailto:maleezha1975@gmail.com)
-
----
-### ⭐ Support Me
-
-If you like my work, feel free to:
-- Star my repositories ⭐
-- Follow me on GitHub 👥
-- Share with others 🔄
-
-### 📝 Quote
-
-> "Code is like humor. When you have to explain it, it's bad." - Cory House
-
----
-**© 2024 Dinidu Maleesha | Made with ❤️ in Sri Lanka**
+<!-- Interactive 3D Profile Card -->
+<div align="center">
+  
+  ```json
+  {
+    "👤": {
+      "name": "Dinidu Maleesha",
+      "title": "IT Undergraduate",
+      "institution": "ICBT Campus",
+      "year": "2024-2026",
+      "location": "Colombo, Sri Lanka 🇱🇰"
+    },
+    "🎯": {
+      "focus": ["Mobile Development", "AI/ML", "Cloud Computing"],
+      "specialization": "Android & Full-Stack",
+      "aspiration": "Tech Entrepreneur"
+    },
+    "⚡": {
+      "status": "Currently Building",
+      "energy": "High",
+      "mode": "Learning & Creating"
+    }
+  }
