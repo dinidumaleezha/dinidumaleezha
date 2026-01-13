@@ -107,3 +107,23 @@
     <img src="https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white" alt="Instagram" height="30"/>
   </a>
 </p>
+
+---
+
+<div align="center">
+  
+  ### **Thanks for visiting my profile!** 😊
+  
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&reversal=true)
+  
+  <p>
+    <i>⭐ Feel free to star my repositories if you find them useful!</i><br>
+    <i>👥 Follow for more updates on my coding journey!</i>
+  </p>
+  
+  <p>
+    <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4-red" alt="Made with love">
+    <img src="https://img.shields.io/badge/Updated-December%202023-green" alt="Updated">
+  </p>
+  
+</div>
