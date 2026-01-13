@@ -84,22 +84,18 @@
 
 --- 
 
-<h2 align="center">📫 Connect with Me</h2>
-<p align="center">
-  <a href="https://www.linkedin.com/in/dinidumaleesha" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/>
-  </a>
-  <a href="https://wa.me/+94765849851" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-green?logo=whatsapp&logoColor=white" alt="WhatsApp" height="30"/>
-  </a>
-  <a href="https://www.youtube.com/@dinidu_maleesha" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white" alt="YouTube" height="30"/>
-  </a>
-  <a href="https://www.instagram.com/dinidumaleesha" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white" alt="Instagram" height="30"/>
-  </a>
-</p>
+## 📫 **Connect With Me**
 
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinidumaleesha)
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+94765849851)
+  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@dinidu_maleesha)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dinidumaleesha)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maleezha1975@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dinidumaleezha)
+  
+</div>
 ---
 
 <div align="center">
