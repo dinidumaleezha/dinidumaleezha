@@ -19,6 +19,8 @@
 
 <h2 align="center">🚀 About Me</h2>
 
+I'm **Dinidu Maleesha**, an enthusiastic IT undergraduate student at ICBT Campus with a passion for mobile app development and emerging technologies. I love turning ideas into reality through code and constantly exploring new tech trends.
+
 - 🌱 I’m currently learning **Coding**
 - 🧑‍🎓 I’m an Undergraduate at **ICBT Campus**
 - 💬 Ask me about **Java and Mobile app development**
