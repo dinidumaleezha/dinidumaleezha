@@ -30,13 +30,16 @@ I'm **Dinidu Maleesha**, an enthusiastic IT undergraduate at **ICBT Campus** wit
 
 <table align="center">
   <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=dinidumaleezha&theme=dark&show_icons=true&count_private=true" />
-      <br/><br/>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=dinidumaleezha&theme=dark" />
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=dinidumaleezha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D8FFF&icon_color=9D8FFF" width="100%" />
     </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dinidumaleezha&theme=dark&langs_count=10" />
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinidumaleezha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D8FFF" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=dinidumaleezha&theme=tokyonight&hide_border=true&background=0D1117&stroke=9D8FFF&ring=9D8FFF&fire=9D8FFF" width="100%" />
     </td>
   </tr>
 </table>
